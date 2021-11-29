@@ -1,0 +1,80 @@
+#Box {
+	margin-left: 270px;
+	font-family: Arial, Verdana;
+	width: 300px;
+}
+
+#add {
+	 
+	margin-left: 5px;
+	font-family: Verdana, Arial;
+	color: red;
+	background-color: #69D2E7;
+	font-weight: bold; 
+}
+
+#clear {
+	position: absolute;
+	margin-left: 45px;
+	font-family: Verdana, Arial;
+	color: blue;
+	background-color: #EA546B; 
+	font-weight: bold; 
+}
+
+#print {
+	position: absolute; 
+	margin-left: 110px;
+}
+
+#TableInfo {
+	 
+	
+	width: 700px;
+	margin-left: 275px;
+}
+
+#Info {
+	font-size: 17px;
+	font-family: Arial, Verdana;
+	font-weight: bold;
+	
+}
+
+h1 {
+	margin-left: 225px; 
+	font-size: 40px;
+	color: red;
+	text-decoration: none;
+	font-family: Cursive;
+}
+
+h5 {
+	
+	margin-left: 275px;
+}
+
+#RawSch {
+	font-size: 10px;
+	color: blue;
+	font-family: Arial, Verdana;
+}
+
+@page {
+	size: landscape; 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
